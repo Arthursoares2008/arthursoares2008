@@ -1,5 +1,5 @@
 # Arthur Soares e Silva Pereira de Miranda
-**Me chamo Arthur Soares e Silva Pereira de Miranda, estudo no ISERJ - Instituto Superior de Educação do Rio de Janeiro, Possuo Inglês nível básico e faço cursos na minha área como banco de dados e programação. Estou disposto a buscar sempre o conhecimento e agregar valores profissionais.**
+**Me chamo Arthur Soares e Silva Pereira de Miranda, Sou Formado no Curso Técnico De Informática no ISERJ - Instituto Superior de Educação do Rio de Janeiro, Possuo Inglês nível básico e faço cursos na minha área como banco de dados e Backend. Estou disposto a buscar sempre o conhecimento e agregar valores profissionais.**
 # Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-soares-e-silva-pereira-de-miranda-7536592b9/)
 
@@ -19,8 +19,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
